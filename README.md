@@ -3,7 +3,9 @@
 A deep learning model that detects the cyberbullying victim and predator from images. 
 
 ### Project Group Members
+
 Mhafuzul Islam (mdmhafi@clemson.edu)
+
 Zadid Khan (mdzadik@clemson.edu)
 
 # Project Description
